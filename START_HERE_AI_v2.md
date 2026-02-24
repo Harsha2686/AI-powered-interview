@@ -272,7 +272,7 @@ uvicorn main_v2:app --reload --port 8000
 ### Issue: "Gemini not responding"
 ```bash
 # Check Gemini API key in backend/.env
-# Verify it's: GEMINI_API_KEY=AIzaSyAgiTBFGwEgVNcnrP4oZwwKSpSTuigCrvc
+# Verify it's: GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
 # If missing, add it manually to backend/.env
 ```
 

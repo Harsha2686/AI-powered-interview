@@ -101,7 +101,7 @@ pnpm dev
 # Already configured:
 MONGODB_URL=mongodb://localhost:27017
 DATABASE_NAME=ai_interviews
-GEMINI_API_KEY=AIzaSyAgiTBFGwEgVNcnrP4oZwwKSpSTuigCrvc
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
 PORT=8000
 ```
 
